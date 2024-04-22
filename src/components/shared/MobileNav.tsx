@@ -2,7 +2,7 @@
 
 import { SignedIn, SignedOut, UserButton } from '@clerk/nextjs'
 import { Sheet, SheetContent, SheetTrigger } from '../ui/sheet'
-import { navLinks } from '@/src/constants'
+import { navLinks } from '@/constants'
 import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
